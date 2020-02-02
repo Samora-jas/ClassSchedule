@@ -1,0 +1,42 @@
+---
+title: "RMarkdown Class Schedule"
+author: "Matthew Beckman"
+date: "September 7, 2018"
+output: html_notebook
+---
+
+# Class Schedule
+
+### PSU 016: First-Year Seminar
+
+This class is a chance for first-year students to get acclamated to college life.  Each department at Penn State has their own section(s) of PSU 016, so students can take the class with other first-year students in their major.  I enjoy teaching the first-year seminar because it's a great opportunity to me to get to know the new class of Statistics Majors!  This year I'm trying something different by assigning the book "How Not to Be Wrong" by Jordan Ellenberg.  It's a really great book about how I think statisticians/mathematicians see the world differently from most other people.  I hope the class actually enjoys it.
+
+For some reason I admit that I was a little surprised to find a Wikipedia page about first-year seminar classes at American Universities, but  [here's the link](https://en.wikipedia.org/wiki/The_First_Year_Experience_Program)!  The page doesn't currently have a picture, so a classic Penn State picture of Old Main seems as fitting as anything else.
+
+![](http://www.amesphotos.com/psu/old_main_penn_state.jpg)
+
+### Jason Samora Abu
+
+### STAT 184: Introduction to R Programmaing
+
+This is my first time taking stat 184 and also taking any course in R. R programming language is common to statistians and data scientists. Here's a link describing R (https://en.m.wikipedia.org/wiki/R_(programming_language).
+
+This is how R studio works:
+https://d33wubrfki0l68.cloudfront.net/692f3658d35df168276cf46e3e083f908a5cc105/f7707/wp-content/uploads/2014/04/rstudio-windows.png
+
+
+### IST 497
+
+IST 497 is a data ethics class. It touches ideas about data privacy and ethical matters. Link elaborates on data ethics 
+particularly Big Data ethics: (https://en.wikipedia.org/wiki/Big_data_ethics). 
+
+Link for data privacy:
+https://smallbiztrends.com/wp-content/uploads/2017/01/shutterstock_164585564.jpg
+
+### BA 303: Marketing
+
+I am a applied data sciences major with an application focus in marketing. Therefore I am taking marketing courses that teach how a product or service is delievered to the consumer market. Link elaborating: https://en.wikipedia.org/wiki/Marketing
+
+Steps in Marketing:
+https://i.pinimg.com/originals/c6/52/c4/c652c424511ccd4fe69cee9997ff27e6.png
+
